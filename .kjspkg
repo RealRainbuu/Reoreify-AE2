@@ -4,6 +4,6 @@
     
     "versions": [9, 10],
     "modloaders": ["forge", "fabric"],
-    "dependencies": ["mod:appliedenergistics2"],
+    "dependencies": ["mod:ae2"],
     "incompatibilities": []
 }
