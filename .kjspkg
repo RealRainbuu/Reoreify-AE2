@@ -1,0 +1,9 @@
+{
+    "author": "Rainbuu",
+    "description": A script to re-add ores to modern versions of AE2.",
+    
+    "versions": [9, 10],
+    "modloaders": ["forge", "fabric"],
+    "dependencies": ["mod:appliedenergistics2"],
+    "incompatibilities": []
+}
